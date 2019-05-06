@@ -6,3 +6,11 @@ author: "Barry Staes"
 ---
 
 This is my very 3rd post in GatsbyJS.
+
+## Test header
+
+Met **dikgedrukte** en *cursieve* en `code` tekst.
+
+    Code voorbeeld
+
+Bla
