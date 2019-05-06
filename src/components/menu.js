@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 function menu() {
   return (
     <div style={{
-      background: 'darkblue',
+      background: '#f4f4f4',
       paddingTop: '10px'
     }}>
       <ul style={{
