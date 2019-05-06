@@ -8,3 +8,7 @@ author: "Barry Staes"
 This is my very first post in GatsbyJS.
 
 Tutorial: https://www.youtube.com/watch?v=6YhqQ2ZW1sc
+
+Repository: https://github.com/barrystaes/gatsbyjs-barrytest
+
+Deployed: https://ecstatic-bohr-5d5162.netlify.com
